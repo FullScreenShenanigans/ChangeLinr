@@ -297,6 +297,3 @@ function ChangeLinr(settings) {
 
     self.reset(settings || {});
 }
-
-HURP DURP HURPADEEDOO
-TRAVIS CI, I'M COMING FOR YOU
