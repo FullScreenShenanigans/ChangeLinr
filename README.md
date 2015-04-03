@@ -42,6 +42,7 @@ pipeline function.
 #### Important Member Variables
 
 * **transforms** *`Object<String, Function>`* - A table mapping String keys to
+Functions, so they can be used in the pipeline.
 
 * **pipeline** *`Array<String>`*- The ordered list of transforms to be applied
 to inputs in the process call.
