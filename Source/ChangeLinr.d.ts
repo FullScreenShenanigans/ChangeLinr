@@ -9,7 +9,7 @@ declare module ChangeLinr {
     }
 
     export interface IChangeLinrTransform {
-        (data: any, key: string, attributes: any, scope: ChangeLinr): any;
+        (data: any, key: string, attributes: any, scope: IChangeLinr): any;
     }
 
     export interface IChangeLinrCache {
