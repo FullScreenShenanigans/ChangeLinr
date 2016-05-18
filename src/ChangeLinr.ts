@@ -1,8 +1,7 @@
 import { ICache, ICacheFull, IChangeLinr, IChangeLinrSettings, ITransforms } from "./IChangeLinr";
 
 /**
- * A general utility class for transforming raw input to processed output. 
- * Transformation functions for inputs are kept along with an order.
+ * A chained automator for applying and caching transforms. 
  */
 export class ChangeLinr implements IChangeLinr {
     /**

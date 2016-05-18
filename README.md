@@ -1,13 +1,13 @@
-# ObjectMakr
-[![Build Status](https://travis-ci.org/FullScreenShenanigans/ObjectMakr.svg?branch=master)](https://travis-ci.org/FullScreenShenanigans/ObjectMakr)
-[![NPM version](https://badge.fury.io/js/objectmakr.svg)](http://badge.fury.io/js/objectmakr)
+# ChangeLinr
+[![Build Status](https://travis-ci.org/FullScreenShenanigans/ChangeLinr.svg?branch=master)](https://travis-ci.org/FullScreenShenanigans/ChangeLinr)
+[![NPM version](https://badge.fury.io/js/changelinr.svg)](http://badge.fury.io/js/changelinr)
 
-A abstract factory for dynamic attribute-based JavaScript classes.
+A chained automator for applying and caching transforms.
 
 
 ## Build Process
 
-ObjectMakr uses [Gulp](http://gulpjs.com/) to automate building, which requires [Node.js](http://node.js.org).
+ChangeLinr uses [Gulp](http://gulpjs.com/) to automate building, which requires [Node.js](http://node.js.org).
 
 To build from scratch, install NodeJS and run the following commands:
 
