@@ -4,8 +4,8 @@
         "declaration": false
     },
     "files": [
-        "utilities/mocks.ts",
-        "utilities/MochaLoader.ts",
+        "utils/mocks.ts",
+        "utils/MochaLoader.ts",
         "ChangeLinr/_.ts"
     ]
 }
